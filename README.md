@@ -1,6 +1,5 @@
 # Fresco_DSL
-
-https://ozgesurer.github.io/software/tutorials
+Based on https://ozgesurer.github.io/software/tutorials
 
 cd /home/sun/app/content/
 
