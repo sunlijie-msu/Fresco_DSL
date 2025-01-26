@@ -1,0 +1,484 @@
+ kp,loop =  1 -1 is type,so,p(:) =   0 F   0.000       1.000       48.00       0.000       0.000       0.000       0.000       0.000       0.000       0.000       0.000       0.000       0.000    
+ kp,loop =  1 -1 is type,so,p(:) =   1 F   0.000       49.28      0.9070      0.6798       1.000       1.330      0.6200       0.000       0.000       0.000       0.000       0.000       0.000    
+ kp,loop =  1 -1 is type,so,p(:) =   2 F   0.000       0.000       0.000       0.000       3.394       1.094      0.2763       0.000       0.000       0.000       0.000       0.000       0.000    
+ kp,loop =  1 -1 is type,so,p(:) =   3 T   0.000       6.600       1.330      0.6200       0.000       1.360      0.6300       0.000       0.000       0.000       0.000       0.000       0.000    
+ mclist =           6  from            0           4           0 ,           1
+ FRXX0: MINL,MAXL =           0          45
+  MAXLAM0,J14T16,J40P =           0 F F
+  ipmax =           2
+ MINL,MAXL,MDONE =           0          45           6
+ JBORD:  0.50000000000000000        35.500000000000000     
+ JUMP:           1
+ 740 M,N =         4001        4002
+ Try JTOTAL =  0.50000000000000000     
+Allocate CLIST(      1      1      6) in   0.000 GB
+  Allocate NCLIST in    2.79999988E-08  GB
+  Allocate SRC/PSI etc in    1.28063999E-04  GB
+  Allocate FIM(D) in    9.59999937E-08  GB    12.000000000000000     
+ Allocate            2  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS     62.5     >  -1.0000 & JT    0.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to           -1   5.90740032E-02
+ DONE now c           -1
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS     29.1     >  -1.0000 & JT    0.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to           -3   5.92530034E-02
+ DONE now c           -3
+ Try JTOTAL =   1.5000000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS     158.     >  -1.0000 & JT    1.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to           -4   5.94190024E-02
+ DONE now c           -4
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS     67.9     >  -1.0000 & JT    1.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to           -6   5.95980026E-02
+ DONE now c           -6
+ Try JTOTAL =   2.5000000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS     197.     >  -1.0000 & JT    2.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to           -7   5.97740002E-02
+ DONE now c           -7
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS     48.3     >  -1.0000 & JT    2.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to           -9   5.99390008E-02
+ DONE now c           -9
+ Try JTOTAL =   3.5000000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS     117.     >  -1.0000 & JT    3.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to          -10   6.02600016E-02
+ DONE now c          -10
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS     144.     >  -1.0000 & JT    3.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to          -12   6.06149994E-02
+ DONE now c          -12
+ Try JTOTAL =   4.5000000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS     352.     >  -1.0000 & JT    4.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to          -13   6.11270033E-02
+ DONE now c          -13
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS     7.69     >  -1.0000 & JT    4.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to          -15   6.13499992E-02
+ DONE now c          -15
+ Try JTOTAL =   5.5000000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS     1.20     >  -1.0000 & JT    5.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to          -16   6.18450008E-02
+ DONE now c          -16
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS     43.8     >  -1.0000 & JT    5.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to          -18   6.23799972E-02
+ DONE now c          -18
+ Try JTOTAL =   6.5000000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS     3.10     >  -1.0000 & JT    6.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to          -19   6.29090071E-02
+ DONE now c          -19
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.190     >  -1.0000 & JT    6.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to          -21   6.32230043E-02
+ DONE now c          -21
+ Try JTOTAL =   7.5000000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.280E-01 >  -1.0000 & JT    7.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to          -22   6.36949986E-02
+ DONE now c          -22
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.318     >  -1.0000 & JT    7.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to          -24   6.42649978E-02
+ DONE now c          -24
+ Try JTOTAL =   8.5000000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.373E-01 >  -1.0000 & JT    8.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to          -25   6.50539994E-02
+ DONE now c          -25
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.387E-02 >  -1.0000 & JT    8.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to          -27   6.55909926E-02
+ DONE now c          -27
+ Try JTOTAL =   9.5000000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.514E-03 >  -1.0000 & JT    9.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to          -28   6.61309958E-02
+ DONE now c          -28
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.462E-02 >  -1.0000 & JT    9.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to          -30   6.66970015E-02
+ DONE now c          -30
+ Try JTOTAL =   10.500000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.582E-03 >  -1.0000 & JT   10.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to          -31   6.72309995E-02
+ DONE now c          -31
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.664E-04 >  -1.0000 & JT   10.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to          -33   6.77829981E-02
+ DONE now c          -33
+ Try JTOTAL =   11.500000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.841E-05 >  -1.0000 & JT   11.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to          -34   6.83089942E-02
+ DONE now c          -34
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.731E-04 >  -1.0000 & JT   11.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to          -36   6.88209981E-02
+ DONE now c          -36
+ Try JTOTAL =   12.500000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.914E-05 >  -1.0000 & JT   12.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to          -37   6.96740001E-02
+ DONE now c          -37
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.105E-05 >  -1.0000 & JT   12.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to          -39   7.02120066E-02
+ DONE now c          -39
+ Try JTOTAL =   13.500000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.130E-06 >  -1.0000 & JT   13.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to          -40   7.07509965E-02
+ DONE now c          -40
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.113E-05 >  -1.0000 & JT   13.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to          -42   7.12929964E-02
+ DONE now c          -42
+ Try JTOTAL =   14.500000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.139E-06 >  -1.0000 & JT   14.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to          -43   7.18380064E-02
+ DONE now c          -43
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.160E-07 >  -1.0000 & JT   14.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to          -45   7.24159926E-02
+ DONE now c          -45
+ Try JTOTAL =   15.500000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.152E-08 >  -1.0000 & JT   15.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to          -46   7.31610060E-02
+ DONE now c          -46
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.175E-07 >  -1.0000 & JT   15.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to          -48   7.34640062E-02
+ DONE now c          -48
+ Try JTOTAL =   16.500000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.217E-08 >  -1.0000 & JT   16.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to          -49   7.40379989E-02
+ DONE now c          -49
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.314E-09 >  -1.0000 & JT   16.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to          -51   7.45700002E-02
+ DONE now c          -51
+ Try JTOTAL =   17.500000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.710E-10 >  -1.0000 & JT   17.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to          -52   7.51190037E-02
+ DONE now c          -52
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.951E-10 >  -1.0000 & JT   17.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to          -54   7.57849962E-02
+ DONE now c          -54
+ Try JTOTAL =   18.500000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.157E-09 >  -1.0000 & JT   18.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to          -55   7.63279945E-02
+ DONE now c          -55
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.189E-09 >  -1.0000 & JT   18.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to          -57   7.68840015E-02
+ DONE now c          -57
+ Try JTOTAL =   19.500000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS   -0.195E-09 >  -1.0000 & JT   19.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to          -58   7.78190047E-02
+ DONE now c          -58
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS   -0.770E-10 >  -1.0000 & JT   19.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to          -60   7.81240016E-02
+ DONE now c          -60
+ Try JTOTAL =   20.500000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS   -0.897E-10 >  -1.0000 & JT   20.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to          -61   7.86439925E-02
+ DONE now c          -61
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS   -0.456E-10 >  -1.0000 & JT   20.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to          -63   7.89999962E-02
+ DONE now c          -63
+ Try JTOTAL =   21.500000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS   -0.145E-09 >  -1.0000 & JT   21.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to          -64   7.91720003E-02
+ DONE now c          -64
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS   -0.181E-09 >  -1.0000 & JT   21.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to          -66   7.97179937E-02
+ DONE now c          -66
+ Try JTOTAL =   22.500000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.680E-10 >  -1.0000 & JT   22.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to          -67   8.02620053E-02
+ DONE now c          -67
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS   -0.281E-10 >  -1.0000 & JT   22.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to          -69   8.08050036E-02
+ DONE now c          -69
+ Try JTOTAL =   23.500000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS   -0.220E-10 >  -1.0000 & JT   23.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to          -70   8.13450068E-02
+ DONE now c          -70
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.458E-12 >  -1.0000 & JT   23.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to          -72   8.18700045E-02
+ DONE now c          -72
+ Try JTOTAL =   24.500000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS     0.00     >  -1.0000 & JT   24.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to          -73   8.24009925E-02
+ DONE now c          -73
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS     0.00     >  -1.0000 & JT   24.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to          -75   8.29599947E-02
+ DONE now c          -75
+ Try JTOTAL =   25.500000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS   -0.198E-10 >  -1.0000 & JT   25.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to          -76   8.35230052E-02
+ DONE now c          -76
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS     0.00     >  -1.0000 & JT   25.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to          -78   8.37060064E-02
+ DONE now c          -78
+ Try JTOTAL =   26.500000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS   -0.206E-10 >  -1.0000 & JT   26.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to          -79   8.41960013E-02
+ DONE now c          -79
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS     0.00     >  -1.0000 & JT   26.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to          -81   8.48409981E-02
+ DONE now c          -81
+ Try JTOTAL =   27.500000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS   -0.128E-10 >  -1.0000 & JT   27.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to          -82   8.52060020E-02
+ DONE now c          -82
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS     0.00     >  -1.0000 & JT   27.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to          -84   8.54640007E-02
+ DONE now c          -84
+ Try JTOTAL =   28.500000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.138E-10 >  -1.0000 & JT   28.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to          -85   8.56480002E-02
+ DONE now c          -85
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.138E-10 >  -1.0000 & JT   28.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to          -87   8.60839933E-02
+ DONE now c          -87
+ Try JTOTAL =   29.500000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.143E-10 >  -1.0000 & JT   29.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to          -88   8.66370052E-02
+ DONE now c          -88
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.149E-10 >  -1.0000 & JT   29.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to          -90   8.72450024E-02
+ DONE now c          -90
+ Try JTOTAL =   30.500000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS   -0.142E-10 >  -1.0000 & JT   30.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to          -91   8.78189951E-02
+ DONE now c          -91
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS   -0.142E-10 >  -1.0000 & JT   30.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to          -93   8.83789957E-02
+ DONE now c          -93
+ Try JTOTAL =   31.500000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS     0.00     >  -1.0000 & JT   31.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to          -94   8.89679939E-02
+ DONE now c          -94
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS     0.00     >  -1.0000 & JT   31.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to          -96   8.95339996E-02
+ DONE now c          -96
+ Try JTOTAL =   32.500000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS     0.00     >  -1.0000 & JT   32.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to          -97   9.01239961E-02
+ DONE now c          -97
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS   -0.214E-10 >  -1.0000 & JT   32.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to          -99   9.06980038E-02
+ DONE now c          -99
+ Try JTOTAL =   33.500000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.907E-11 >  -1.0000 & JT   33.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to         -100   9.13030058E-02
+ DONE now c         -100
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS     0.00     >  -1.0000 & JT   33.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to         -102   9.21130031E-02
+ DONE now c         -102
+ Try JTOTAL =   34.500000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS     0.00     >  -1.0000 & JT   34.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to         -103   9.28609967E-02
+ DONE now c         -103
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.147E-10 >  -1.0000 & JT   34.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to         -105   9.38899964E-02
+ DONE now c         -105
+ Try JTOTAL =   35.500000000000000     
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS   -0.124E-10 >  -1.0000 & JT   35.5 > 0.0 so DONES now =  -1
+ DONE incremented c by           -1  to         -106   9.44940001E-02
+ DONE now c         -106
+ Allocate            3  spaces in coupling list           1
+ ERWINCC4 solutions =           1           1           1
+ Thread            1  range:            1           1 >           1
+  XS    0.151E-10 >  -1.0000 & JT   35.5 > 0.0 so DONES now =  -2
+ DONE incremented c by           -2  to         -108   9.50410068E-02
+ DONE now c         -108
