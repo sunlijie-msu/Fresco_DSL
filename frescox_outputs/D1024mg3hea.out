@@ -164,7 +164,7 @@ Running on ubuntu
    from    0.00000     to   0.00000     in        0 intervals
 
  Largest real,imaginary parts of any form factor at R=   19.00 are   7.58E-02  8.78E-07 MeV
- Finished all Couplings @    2.62110010E-02
+ Finished all Couplings @    2.53369994E-02
 
  Non-symmetric Hamiltonian
 1***********************************************************************************************************************************
@@ -197,7 +197,7 @@ Running on ubuntu
  Reaction Xsec    30.0+/30 @ 1 =     0.000#, Out:   0.000#   0.000#   0.000f
  Reaction Xsec    30.0-/29 @ 1 =     0.000#, Out:   0.000#   0.000#   0.000f
  Reaction Xsec    30.0-/31 @ 2 =     0.000#, Out:   0.000#   0.000#   0.000f
- Finished all CC sets @    8.90170038E-02
+ Finished all CC sets @    8.38589966E-02
 0CUMULATIVE REACTION cross section               =       1627.21373  <L> =     5.09  <L**2> =     30.9
 0CUMULATIVE  ELASTIC cross section               =          0.00000
 0CUMULATIVE outgoing cross sections in partition 1 :    0.00000
@@ -760,7 +760,7 @@ Running on ubuntu
    179.00 deg.: X-S =       0.146189 mb/sr,
    180.00 deg.: X-S =       0.146352 mb/sr,
                                            Integrated  4.9443E+01 mb, over [   0.000, 180.000] at    10.0000 MeV 
- Finished all xsecs @    9.86189991E-02
+ Finished all xsecs @    9.30389985E-02
 
   The following files have been created:
    3:local copy of User input.            6:standard output.                   
@@ -794,4 +794,4 @@ Running on ubuntu
  1: Recommended RNL: non-local width >   5.20 cf:   4.00 fm: NOT OK  
     Recommended CENTRE: centration   ~   1.00 cf:  -0.40 fm
 
- Total CPU  0 time =       0.10 seconds
+ Total CPU  0 time =       0.09 seconds

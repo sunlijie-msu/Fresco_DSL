@@ -134,7 +134,7 @@ Running on ubuntu
    NLL,NLN,NLO =         191         191          57
 0File   9 needs RL =   21774    REAL*8 numbers, and NR =   132. i.e.   22.99 Megabytes
    File            9  RECL =      173280
-0RECOMMENDED NON-LOCAL WIDTH IS GREATER THAN    0.99 FM.,  RECOMMENDED CENTRATION   0.04, after    0.30 secs.
+0RECOMMENDED NON-LOCAL WIDTH IS GREATER THAN    0.99 FM.,  RECOMMENDED CENTRATION   0.04, after    0.29 secs.
 0Relative non-local usages (rms) are
     0.000   0.000   0.000   0.000   0.000   0.000   0.000   0.000   0.000   0.000   0.000   0.000   0.000   0.000   0.000
     0.000   0.000   0.000   0.001   0.003   0.009   0.020   0.057   0.354   3.452  14.972  51.537  90.794 100.000  76.670
@@ -151,7 +151,7 @@ Running on ubuntu
    from    0.00000     to   0.00000     in        0 intervals
 
  Largest real,imaginary parts of any form factor at R=   39.66 are   3.63E-02  1.36E-20 MeV
- Finished all Couplings @   0.315513015    
+ Finished all Couplings @   0.301413983    
 
  Non-symmetric Hamiltonian
 1***********************************************************************************************************************************
@@ -250,7 +250,7 @@ Running on ubuntu
  Reaction Xsec   120.5-/21 @ 7 =     0.002#, Out:   0.000#   0.000#   0.000f
  Reaction Xsec   120.5-/23 @ 8 =     0.001#, Out:   0.000#   0.000#   0.000f
  Reaction Xsec   120.5-/23 @ 9 =     0.001#, Out:   0.000#   0.000#   0.000f
- Finished all CC sets @    7.08560610    
+ Finished all CC sets @    6.84016705    
 0CUMULATIVE REACTION cross section               =       1760.34720  <L> =    26.73  <L**2> =    820.4
 0CUMULATIVE  ELASTIC cross section               =          0.00000
 0CUMULATIVE outgoing cross sections in partition 1 :    0.00000
@@ -1474,7 +1474,7 @@ Running on ubuntu
     39.90 deg.: X-S =       0.001253 mb/sr,
     40.00 deg.: X-S =       0.001252 mb/sr,
                                            Integrated  2.6352E-01 mb, over [   0.000,  40.000] at   170.0000 MeV 
- Finished all xsecs @    7.42009211    
+ Finished all xsecs @    7.18345404    
 
   The following files have been created:
    3:local copy of User input.            6:standard output.                   
@@ -1508,4 +1508,4 @@ Running on ubuntu
  1: Recommended RNL: non-local width >   0.99 cf:   5.04 fm: OK      
     Recommended CENTRE: centration   ~   0.04 cf:   0.00 fm
 
- Total CPU  0 time =       7.43 seconds
+ Total CPU  0 time =       7.19 seconds
